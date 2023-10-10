@@ -11,5 +11,5 @@ date: "2021-10-01"
 publication: "Mycological Progress"
 
 links:
-    pdf: https://doi.org/10.1007/s11557-021-01730-8
+    link: https://doi.org/10.1007/s11557-021-01730-8
 ---

@@ -9,5 +9,5 @@ date: "2018-09-01"
 publication: "Fungal Science"
 
 links:
-    pdf: https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=10132732-201812-201812120003-201812120003-7-19
+    link: https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=10132732-201812-201812120003-201812120003-7-19
 ---

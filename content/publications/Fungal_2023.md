@@ -16,5 +16,5 @@ date: "2023-02-23"
 publication: "Fungal Diversity"
 
 links:
-    pdf: https://doi.org/10.1007/s13225-022-00513-0
+    link: https://doi.org/10.1007/s13225-022-00513-0
 ---

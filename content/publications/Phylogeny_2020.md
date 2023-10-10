@@ -10,5 +10,5 @@ date: "2020-01-02"
 publication: "Mycologia"
 
 links:
-    pdf: https://doi.org/10.1080/00275514.2019.1664097
+    link: https://doi.org/10.1080/00275514.2019.1664097
 ---

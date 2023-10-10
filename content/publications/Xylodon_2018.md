@@ -7,10 +7,10 @@ authors:
 - S.-H.
 - Chen
 - C.-Y.
-date: "2018"
+date: "2018-01-01"
 
 publication: "Mycoscience"
 
 links:
-    pdf: https://doi.org/10.1016/j.myc.2017.12.004
+    link: https://doi.org/10.1016/j.myc.2017.12.004
 ---

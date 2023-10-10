@@ -7,5 +7,5 @@ date: "2022-06-20"
 publication: "Frontiers in Microbiology"
 
 links:
-    pdf: "https://doi.org/10.3389/fmicb.2022.911978"
+    link: "https://doi.org/10.3389/fmicb.2022.911978"
 ---

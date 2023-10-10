@@ -7,5 +7,5 @@ date: "2020-01-01"
 publication: Mycosphere
 
 links:
-    pdf: "https://doi.org/10.5943/mycosphere/11/1/12"
+    link: "https://doi.org/10.5943/mycosphere/11/1/12"
 ---

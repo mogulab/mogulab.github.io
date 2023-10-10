@@ -9,5 +9,5 @@ date: "2014-01-01"
 publication: "Fungal Science"
 
 links:
-    pdf: https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=10132732-201412-201501280022-201501280022-28-32
+    link: https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=10132732-201412-201501280022-201501280022-28-32
 ---

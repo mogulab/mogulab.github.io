@@ -12,5 +12,5 @@ date: "2018-01-01"
 publication: "MycoKeys"
 
 links:
-    pdf: https://doi.org/10.3897/mycokeys.39.28010
+    link: https://doi.org/10.3897/mycokeys.39.28010
 ---

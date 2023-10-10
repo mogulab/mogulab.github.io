@@ -13,5 +13,5 @@ date: "2022-11-21"
 publication: "Journal of Fungi"
 
 links:
-    pdf: https://doi.org/10.3390/jof8111229
+    link: https://doi.org/10.3390/jof8111229
 ---

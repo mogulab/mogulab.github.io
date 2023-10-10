@@ -7,5 +7,5 @@ date: "2020-06-01"
 publication: "Fungal Systematics and Evolution"
 
 links:
-    pdf: https://doi.org/10.3114/fuse.2020.05.07
+    link: https://doi.org/10.3114/fuse.2020.05.07
 ---

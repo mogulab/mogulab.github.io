@@ -4,10 +4,10 @@ authors:
 - Che-Chih Chen
 - Chi-Yu Chen
 - Sheng-Hua Wu
-date: "2021-11"
+date: "2021-11-01"
 
 publication: "Fungal Diversity"
 
 links:
-    pdf: https://doi.org/10.1007/s13225-021-00490-w
+    link: https://doi.org/10.1007/s13225-021-00490-w
 ---

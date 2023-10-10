@@ -9,5 +9,5 @@ date: "2017-01-01"
 publication: "Mycological Progress"
 
 links:
-    pdf: https://doi.org/10.1007/s11557-017-1286-0
+    link: https://doi.org/10.1007/s11557-017-1286-0
 ---

@@ -10,5 +10,5 @@ date: "2022-05-31"
 publication: "MycoKeys"
 
 links:
-    pdf: "https://doi.org/10.3897/mycokeys.90.84562"
+    link: "https://doi.org/10.3897/mycokeys.90.84562"
 ---

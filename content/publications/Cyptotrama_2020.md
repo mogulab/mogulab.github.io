@@ -10,5 +10,5 @@ date: "2020-01-01"
 publication: "Fungal Science"
 
 links:
-    pdf: https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=10132732-202012-202005200009-202005200009-23-31
+    link: https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=10132732-202012-202005200009-202005200009-23-31
 ---
