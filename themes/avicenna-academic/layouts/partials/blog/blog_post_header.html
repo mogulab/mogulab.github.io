@@ -4,6 +4,7 @@
     <a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a>
 </h3>
 
+<!--
 <div class="reading_time secondary_font text-muted ">
     <span>
         {{ .Date | time.Format "Jan 2 2006" }} · {{ math.Ceil (div $readTime 60) }} min read
@@ -12,7 +13,6 @@
 </div>
 
 
-<!-- show tags if they are any -->
 {{ if .Params.tags }}
 <div class="tags_navigation">
     {{ range .Params.tags }}
@@ -20,3 +20,4 @@
     {{ end }}
 </div>
 {{ end }}
+-->

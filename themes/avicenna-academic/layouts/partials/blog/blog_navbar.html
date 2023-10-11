@@ -3,7 +3,7 @@
     {{ if eq $value "about" }}
     <a class="navbar-brand" href="/">{{ $value }}</a>
     {{ else if eq $value "blog" }}
-    <a class="navbar-brand" href="/blog">« all posts</a>
+    <!-- <a class="navbar-brand" href="/blog">« all posts</a> -->
     {{ else }}
     <a class="navbar-brand" href="/{{$value}}">{{ $value }}</a>
     {{ end }}
