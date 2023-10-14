@@ -3,7 +3,7 @@
 {{ $aboutPage := .Site.GetPage $content_type }}
 
 <div class="row w-100 justify-content-center">
-    <img class="rounded-circle  " src="images/profile.png" alt="profile_picture" id="profile_picture" />
+    <img class="rounded-circle  " src="images/{{ $aboutPage.Params.profile_picture }}" alt="profile_picture" id="profile_picture" />
 </div>
 
 
@@ -51,11 +51,11 @@
 <div class="socials row w-100 justify-content-center">
     <div class="col-sm-12 col-md-10 text-center"> <!-- Adjust the responsive classes as needed -->
         <a id="blog_logo_members" class="main_color d-block d-md-inline" href='/blog/members'>
-            <i class="ai ai-2x ai-blog academic_icons_customize">實驗室成員</i>
+            <i class="ai ai-2x ai-blog academic_icons_customize">Lab Members</i>
         </a>
         <span class="separator">|</span>
         <a id="blog_logo_intro" class="main_color d-block d-md-inline" href='/blog/labintro'>
-            <i class="ai ai-2x ai-blog academic_icons_customize">實驗室介紹</i>
+            <i class="ai ai-2x ai-blog academic_icons_customize">Lab Intro</i>
         </a>
     </div>
 </div>
