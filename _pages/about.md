@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: <a href='https://www.nmns.edu.tw/en/our-research/research-and-writing/detail?id=A145&no=17'>National Museum of Natural Science</a>, Biology Department, Fungi and Lichens Division.
 
